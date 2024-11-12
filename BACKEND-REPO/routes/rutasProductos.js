@@ -1,3 +1,5 @@
+//this is a test if it works it is okey
+
 var rutas = require("express").Router();
 var{mostrarProductos, nuevoProducto, borrarProducto, buscarPorID, editarProducto} = require("../db/productosBD");
 
